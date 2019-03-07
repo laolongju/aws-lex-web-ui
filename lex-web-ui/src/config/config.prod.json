@@ -5,7 +5,7 @@
   "lex": {
     "botName": "WebUiOrderFlowers",
     "initialText": "You can ask me for help check in. Just type \"check in\" or click on the mic and say it.",
-    "initialSpeechInstruction": "Say 'Order Flowers' to get started."
+    "initialSpeechInstruction": "Say 'Check in' to get started."
   },
   "polly": {
     "voiceId": "Salli"
